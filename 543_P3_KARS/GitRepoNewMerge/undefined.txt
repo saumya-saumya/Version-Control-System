@@ -1,0 +1,17 @@
+Manifest Created timestamp- Sat May 04 2019 14:49:48 GMT-0700 (Pacific Daylight Time)
+
+
+
+Command Line: checkin C:\Users\Shraddha\Documents\ASE\543_P2_KARS_new\GitRepo C:\Users\Shraddha\Documents\ASE\543_P2_KARS_new\GitRepoNewMerge\
+
+
+
+Original Folder: C:\Users\Shraddha\Documents\ASE\543_P2_KARS_new\GitRepo
+
+
+
+Target Folder: C:\Users\Shraddha\Documents\ASE\543_P2_KARS_new\GitRepoNewMerge\
+
+
+
+File Copied:- 

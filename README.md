@@ -1,5 +1,5 @@
 # Version-Control-System
-
+![alt text](https://github.com/saumya-saumya/Version-Control-System/blob/master/543_P3_KARS/VCS.png)
 ## Part 1
 Use Case <br>
 Title: Create Repository <br>

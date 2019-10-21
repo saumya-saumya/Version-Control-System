@@ -1,9 +1,3 @@
-Name: Shraddha Nagargoje,Saumya, Anirudhha Shinde, Rucha Kanse , keval Goda
-
-Project Name: VCS
-
-Team Initial: KARS
-Section: CECS 543-01
 
 Project part: Part 1
 
